@@ -155,4 +155,6 @@ For anything that does not fit an issue, such as collaboration or press, get in 
 
 ## <img src="docs/readme/ui/icon-license.png" width="32" height="32" align="absmiddle" alt="" /> License
 
+good
+
 MIT © lnkiai
